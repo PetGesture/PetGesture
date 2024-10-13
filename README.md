@@ -1,4 +1,4 @@
-# PetGesture ✨ PetGesture ✨ 
+# ✨ PetGesture ✨ 
 
 - 👋 Hi, I’m @PetGesture
 - 👀 I’m interested in ...
